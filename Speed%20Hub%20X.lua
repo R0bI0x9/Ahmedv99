@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://pastefy.app/80JfDktt/raw"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/R0bI0x9/Waiian/refs/heads/main/Cliponthemsg"))()
